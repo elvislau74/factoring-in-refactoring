@@ -13,12 +13,13 @@ N/A
 
 This website has informative text about topics such as Search Engine Optimization, Online Reputation Management, Social Media Marketing and their importance. Clicking on any of the links near the top right will scroll the page down to the specific section where you can read about the aforementioned topics. 
 
-<img src="./assets/images/horiseon1.jpg" width= 500px; />
-<img src="./assets/images/horiseon2.jpg" width= 500px />
-<img src="./assets/images/horiseon3.jpg" width= 500px />
+<img src="./assets/images/Horiseon1.jpg" width= 500px; />
+<img src="./assets/images/Horiseon2.jpg" width= 500px />
+<img src="./assets/images/Horiseon3.jpg" width= 500px />
 
-<a href="https://github.com/elvislau74/factoring-in-refactoring">GitHub Repository<a />
-<a href="https://elvislau74.github.io/factoring-in-refactoring/">Horiseon Website<a />
+<a href="https://github.com/elvislau74/factoring-in-refactoring">Click here for GitHub Repository</a>
+
+<a href="https://elvislau74.github.io/factoring-in-refactoring/">Click here for the Horiseon Website</a>
 
 
 ## Credits
