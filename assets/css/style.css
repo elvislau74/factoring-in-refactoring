@@ -1,9 +1,13 @@
+/* Styling Reset to padding and margin. All set to 0 until
+stated otherwise in the subsquent code. */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Setting the color, fonts, font size, positioning and other 
+things within the body element, including it's child elements. */
 body {
     background-color: #d9dcd6;
 }
@@ -25,6 +29,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Setting up padding and margins for the nav within the header element. */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -38,6 +43,10 @@ header nav ul {
     list-style-type: none;
 }
 
+/* Setting the listed items within the header and nav 
+as an inline block changing the color of it's text,
+along with the color of the hyper links and font size
+of the paragraph elements. */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -52,6 +61,7 @@ p {
     font-size: 16px;
 }
 
+/* The div class hero is used to insert a large image below the header and nav */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,6 +71,8 @@ p {
     background-position: center;
 }
 
+/* Setting up the main element, positioning the images in 
+the subsequent section classes to either the left or right. */
 main {
     width: 75%;
     display: inline-block;
@@ -77,6 +89,23 @@ main {
     margin-left: 25px;
 }
 
+/* Adjusting the height of the images and the font size of the text within
+the section class elements of the parent main. */
+.search-engine-optimization img, 
+.online-reputation-management img, 
+.social-media-marketing img{
+    max-height: 200px;
+}
+
+.search-engine-optimization h2,
+.online-reputation-management h2, 
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Setting up the aside element with it's positioning and size along with 
+it's subsequent div class elements' colors and margins. */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -123,19 +152,7 @@ aside {
     color: #ffffff;
 }
 
-.search-engine-optimization img, 
-.online-reputation-management img, 
-.social-media-marketing img{
-    max-height: 200px;
-}
-
-.search-engine-optimization h2,
-.online-reputation-management h2, 
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* Defining the footer element's padding, alignment, font and font size. */
 footer {
     padding: 30px;
     clear: both;

@@ -1,4 +1,4 @@
-# factoring-in-refactoring
+# Factoring in Refactoring
 Code Refactoring Project: Horiseon Website
 
 ## Description
