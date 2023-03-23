@@ -3,7 +3,7 @@ Code Refactoring Project: Horiseon Website
 
 ## Description
 
-This Horiseon website refactoring project's purpose was to teach bootcamp students how to refactor and reuse starter code given to them. Specifically, the students had rewrite some of the index.html file to utilise semantic HTML elements as well as clean up the CSS style sheet so that it would not be too cluttered with any unnecessary repeated code, adding appropriate comments along the way. Alt text was added images to make sure the website is more accessible. Afterwards, students must make sure that all links are working as they were originally. 
+This Horiseon website refactoring project's purpose was to teach bootcamp students how to refactor and reuse starter code given to them. Specifically, the students had to rewrite some of the index.html file to utilise semantic HTML elements as well as clean up the CSS style sheet so that it would not be too cluttered with any unnecessary repeated code, adding appropriate comments along the way. Alt text was added to the images to make sure the website is more accessible. Afterwards, students must make sure that all links are working as they were originally. 
 
 ## Installation
 
